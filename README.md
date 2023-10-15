@@ -2,6 +2,7 @@
 
 Array_in_DSA
 Data Structures and Algorithms in C++
+
 This repository provides implementations and explanations of various data structures, algorithms, and related concepts in the C++ programming language. 
 It covers different types of patterns, number system conversions, and fundamental algorithms like finding min and max elements.
 
